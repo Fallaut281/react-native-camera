@@ -20,3 +20,5 @@ Line from branch1 commit 2
 Line from branch1 commit 3
 Branch1 commit 4
 Branch1 commit 5
+Branch1 commit 6
+
